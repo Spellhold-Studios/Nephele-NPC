@@ -42,6 +42,9 @@ LANGUAGE ~English~
          ~english~
          ~nephele/tra/english/setup.tra~
 
+LANGUAGE ~Schinese~
+         ~schinese~
+         ~nephele/tra/schinese/setup.tra~
 
 // --------------------------------------------
 // Nephele NPC Mod 
